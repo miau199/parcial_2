@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Mon Sep 21 20:53:29 2026
+# Process ID         : 33672
+# Current directory  : C:/Users/diego/OneDrive/Desktop/projects vivado/parcial_2/parcial_2.runs/synth_1
+# Command line       : vivado.exe -log elevador_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source elevador_top.tcl
+# Log file           : C:/Users/diego/OneDrive/Desktop/projects vivado/parcial_2/parcial_2.runs/synth_1/elevador_top.vds
+# Journal file       : C:/Users/diego/OneDrive/Desktop/projects vivado/parcial_2/parcial_2.runs/synth_1\vivado.jou
+# Running On         : Miau_Omen
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 9 8940HX with Radeon Graphics        
+# CPU Frequency      : 2395 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 32
+# Host memory        : 33342 MB
+# Swap memory        : 6174 MB
+# Total Virtual      : 39516 MB
+# Available Virtual  : 12954 MB
+#-----------------------------------------------------------
+source elevador_top.tcl -notrace
